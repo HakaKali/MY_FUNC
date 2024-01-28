@@ -1,3 +1,4 @@
+//int get_current_tid() {return syscall(__NR_gettid);} for threads!!
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
